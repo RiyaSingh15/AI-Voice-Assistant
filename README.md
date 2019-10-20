@@ -1,2 +1,2 @@
 # Voice-Assistant
-Desktop Voice Assistant built using electronjs (html, css, javascript and python)
+Desktop Voice Assistant built using eel (html, css, javascript and python)

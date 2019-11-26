@@ -1,5 +1,6 @@
 # AI Voice Assistant
-AI Voice Assistant built using eel (html, css, javascript and python)
+AI Voice Assistant built using eel (html, css, javascript and python)<br>
+<h2>Running Steps</h2>
 Clone the repository or download zip<br>
 To run AI Voice Assistant:<br>
 download python from https://www.python.org/downloads/<br>
@@ -12,9 +13,9 @@ enter "pip install Eel"<br>
   enter "pip install SpeechRecognition"<br>
   enter "pip install wikipedia"<br><br>
   
- open directory where you cloned the repository then "shift + right click"<br>
+ Open directory where you cloned the repository then "shift + right click"<br>
  Click the option "Open PowerShell Window here"<br>
- type "python assistant.py"<br>
+ Type "python assistant.py"<br>
  If things are done correctly AI VOice Assistant should run now.<br>
 If you get any error related to module not found then in cmd type "pip install module-name".<br>
 If you get any error related to pyaudio install build tools from https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2017<br>

@@ -22,3 +22,7 @@ If you get any error related to pyaudio install build tools from https://visuals
 Then in cmd type "pip install PyAudio".<br>
 Now PyAudio should work.<br><br>
 If you still get any error feel free to post on https://github.com/RiyaSingh15/AI-Voice-Assistant/issues.
+
+<h2>Developed By</h2>
+Riya Singh<br>
+r.riyasingh.s15@gmail.com
